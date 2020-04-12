@@ -1,0 +1,10 @@
+div{
+    margin: 200px auto;
+    width: 250px;
+    background-color: #ddd;
+    border: 1px solid #333;
+    padding: 20px;
+    text-transform: capitalize;
+   
+}
+div:hover{ transform: rotate(30deg);}
